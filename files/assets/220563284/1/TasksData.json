@@ -1,0 +1,139 @@
+{
+    "tasks": [
+        {
+            "id": "Q11",
+            "states": [
+                { "entityName": "None", "answer": [3] }
+            ]
+        },
+        {
+            "id": "Q12",
+            "states": [
+                { "entityName": "None", "answer": [2] }
+            ]
+        },
+        {
+            "id": "Q13",
+            "states": [
+                { "entityName": "Q13-S1", "answer": [2,3] },
+                { "entityName": "Q13-S2", "answer": [1] }
+            ]
+        },
+        {
+            "id": "Q21",
+            "states": [
+                { "entityName": "Q21-S1", "answer": [1] },
+                { "entityName": "Q21-S2", "answer": [0] }
+            ]
+        },
+        {
+            "id": "Q22",
+            "states": [
+                { "entityName": "Q22-S1", "answer": [1] }
+            ]
+        },
+        {
+            "id": "Q23",
+            "states": [                
+                { "entityName": "None", "answer": [0] }
+            ]
+        },
+        {
+            "id": "Q24-1",
+            "states": [
+                { "entityName": "Q24-1-S2", "answer": [1] }
+            ]
+        },
+        {
+            "id": "Q24-2",
+            "states": [                                
+                { "entityName": "Q24-2-S1", "answer": [1] },
+                { "entityName": "Q24-2-S2", "answer": [2] }
+            ]
+        },
+        {
+            "id": "Q24-3",
+            "states": [                                
+                { "entityName": "Q24-3-S1", "answer": [0] }                
+            ]
+        },
+        {
+            "id": "Q31-1",
+            "states": [                                
+                { "entityName": "None", "answer": [1] }                
+            ]
+        },
+        {
+            "id": "Q31-2",
+            "states": [                                
+                { "entityName": "None", "answer": [2,3] }                
+            ]
+        },
+        {
+            "id": "Q31-3",
+            "states": [                                
+                { "entityName": "None", "answer": [2] }                
+            ]
+        },
+        {
+            "id": "Q31-4",
+            "states": [                                
+                { "entityName": "None", "answer": [0] }
+            ]
+        },
+        {
+            "id": "Q32",
+            "states": [                                
+                { "entityName": "None", "answer": [0] }
+            ]
+        },
+        {
+            "id": "Q41",
+            "states": [                                
+                { "entityName": "None", "answer": [0] }
+            ]
+        },
+        {
+            "id": "Q42-1",
+            "states": [                                
+                { "entityName": "Q42-1-S1", "answer": [2] }
+            ]
+        },
+        {
+            "id": "Q42-2",
+            "states": [                                
+                { "entityName": "Q42-2-S1", "answer": [0] }
+            ]
+        },
+        {
+            "id": "Q43",
+            "states": [                                
+                { "entityName": "Q43-S1", "answer": [2] }
+            ]
+        },
+        {
+            "id": "Q44-1",
+            "states": [                                
+                { "entityName": "None", "answer": [3] }
+            ]
+        },
+        {
+            "id": "Q44-2",
+            "states": [                                
+                { "entityName": "None", "answer": [2] }
+            ]
+        },
+        {
+            "id": "Q44-3",
+            "states": [                                
+                { "entityName": "None", "answer": [0, 2] }
+            ]
+        },
+        {
+            "id": "Q5",
+            "states": [                                
+                { "entityName": "None", "answer": [0] }
+            ]
+        }
+    ]
+}
